@@ -1,5 +1,4 @@
 WeatherBot
-Video Demo: https://www.youtube.com/watch?v=dSTxELKJyQc
 Description:
 
 WeatherBot is a Python-based command-line application that displays the current weather for any city in the world. It uses the free OpenWeatherMap API to fetch live weather data based on a user-provided city name. The program then extracts the temperature in both Celsius and Fahrenheit, along with a short weather description like "clear sky" or "rain".
