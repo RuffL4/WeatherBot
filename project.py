@@ -2,7 +2,7 @@ import requests
 import sys
 
 
-api_key = "0933d47a01304ac2ed1f62bbfb74f637"
+api_key = YOUR_API_KEY
 
 
 def main():
